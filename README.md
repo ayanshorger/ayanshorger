@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=760&lines=Python+Full+Stack+Developer;Building+scalable+Django+web+applications;Creator+of+RNT+College+ERP+System;CanFighter+%E2%80%94+AI+healthcare+platform+with+Gemini+API;Learning+Python+libraries+and+Data+Analytics" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=ayanshorger&label=Profile%20Views&color=7dd3fc&style=for-the-badge&labelColor=0b1220" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/ayanshorger?label=Followers&style=for-the-badge&color=7dd3fc&labelColor=0b1220&logo=github&logoColor=7dd3fc" alt="Followers"/> -->
@@ -84,16 +84,8 @@ An AI-integrated healthcare platform built at Google Lakhcity Hackathon 2026 usi
 
 <br/>
 
-## Tech Stack
 
-| Category | Technologies |
-|:---------|:-------------|
-| Languages | <img src="https://skillicons.dev/icons?i=py,js,html,css" alt="languages"/> |
-| Backend | <img src="https://skillicons.dev/icons?i=django" alt="backend"/> |
-| Data and Analytics | <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI"/> <img src="https://img.shields.io/badge/Excel-0b1220?style=for-the-badge&logo=microsoftexcel&logoColor=7dd3fc" alt="Excel"/> <img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=databricks&logoColor=7dd3fc" alt="SQL"/> |
-| AI | <img src="https://img.shields.io/badge/Gemini%20API-0b1220?style=for-the-badge&logo=googlegemini&logoColor=7dd3fc" alt="Gemini API"/> |
 
-<br/>
 
 ## GitHub Statistics
 
@@ -108,19 +100,13 @@ An AI-integrated healthcare platform built at Google Lakhcity Hackathon 2026 usi
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayanshorger&theme=nord&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub trophies"/>
+
 
 </div>
 
 <br/>
 
-## Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanshorger&bg_color=0b1220&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc&hide_border=true" alt="Contribution graph" width="100%"/>
-</div>
-
-<br/>
 
 ## Connect With Me
 
