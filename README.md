@@ -54,10 +54,6 @@ const ayanShorger = {
 
 A Django-based ERP system built for college administration.
 
-<a href="https://github.com/ayanshorger/RNT-College-ERP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayanshorger&repo=RNT-College-ERP&theme=nord&bg_color=0b1220&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0" alt="RNT College ERP"/>
-</a>
-
 | Layer | Technology |
 |:------|:-----------|
 | Backend | Python, Django |
@@ -70,9 +66,6 @@ A Django-based ERP system built for college administration.
 
 An AI-integrated healthcare platform built at Google Lakhcity Hackathon 2026 using the Gemini API.
 
-<a href="https://github.com/ayanshorger/CanFighter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayanshorger&repo=CanFighter&theme=nord&bg_color=0b1220&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0" alt="CanFighter"/>
-</a>
 
 | Layer | Technology |
 |:------|:-----------|
