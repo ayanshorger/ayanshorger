@@ -8,8 +8,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ayanshorger&label=Profile%20Views&color=7dd3fc&style=for-the-badge&labelColor=0b1220" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/ayanshorger?label=Followers&style=for-the-badge&color=7dd3fc&labelColor=0b1220&logo=github&logoColor=7dd3fc" alt="Followers"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=ayanshorger&label=Profile%20Views&color=7dd3fc&style=for-the-badge&labelColor=0b1220" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/ayanshorger?label=Followers&style=for-the-badge&color=7dd3fc&labelColor=0b1220&logo=github&logoColor=7dd3fc" alt="Followers"/> -->
 
 </div>
 
@@ -34,6 +34,17 @@ const ayanShorger = {
   openTo: ["Django web development", "Data analytics", "Hackathons and collaborations"]
 };
 ```
+
+<br/>
+
+## Tech Stack
+
+| Category | Technologies |
+|:---------|:-------------|
+| Languages | <img src="https://skillicons.dev/icons?i=py,js,html,css" alt="languages"/> |
+| Backend | <img src="https://skillicons.dev/icons?i=django" alt="backend"/> |
+| Data and Analytics | <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI"/> <img src="https://img.shields.io/badge/Excel-0b1220?style=for-the-badge&logo=microsoftexcel&logoColor=7dd3fc" alt="Excel"/> <img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=databricks&logoColor=7dd3fc" alt="SQL"/> |
+| AI | <img src="https://img.shields.io/badge/Gemini%20API-0b1220?style=for-the-badge&logo=googlegemini&logoColor=7dd3fc" alt="Gemini API"/> |
 
 <br/>
 
