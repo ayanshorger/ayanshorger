@@ -12,12 +12,15 @@
 <img src="https://img.shields.io/github/followers/ayanshorger?label=Followers&style=for-the-badge&color=7dd3fc&labelColor=0b1220&logo=github&logoColor=7dd3fc" alt="Followers"/> -->
 
 </div>
-
 <br/>
-
 ## About Me
 
-I am a Python Full Stack Developer from Kapasan, Chittorgarh, currently pursuing my **Master of Computer Applications** at Rajasthan Institute of Engineering and Technology, Jaipur. I completed my BCA from RNT PG College (MLSU) with a **CGPA of 8.67** and the **College Topper medal**. I build Django-based web applications and am now expanding into data analytics with Python, Excel, Power BI and SQL.
+Full Stack Developer with hands-on experience building Django-based web applications, including a college
+ERP system managing student/staff records and an AI-integrated healthcare platform (CanFighter) built at
+Google Lakhcity Hackathon 2026. Proficient in Python, Django, and AI-tool integration (Gemini API) to ship
+functional products quickly. Currently pursuing MCA while actively building production-ready projects in
+college administration, healthcare, and automation domains.
+
 
 <br/>
 
