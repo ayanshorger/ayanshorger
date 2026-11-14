@@ -21,69 +21,8 @@ I am a Python Full Stack Developer from Kapasan, Chittorgarh, currently pursuing
 
 <br/>
 
-## Tech Stack
-
-| Category | Technologies |
-|:---------|:-------------|
-| Languages | <img src="https://skillicons.dev/icons?i=py,js,html,css" alt="languages"/> |
-| Backend | <img src="https://skillicons.dev/icons?i=django" alt="backend"/> |
-| Database | <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI"/> <img src="https://img.shields.io/badge/Excel-0b1220?style=for-the-badge&logo=microsoftexcel&logoColor=7dd3fc" alt="Excel"/> <img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=databricks&logoColor=7dd3fc" alt="SQL"/> |
-| AI | <img src="https://img.shields.io/badge/Gemini%20API-0b1220?style=for-the-badge&logo=googlegemini&logoColor=7dd3fc" alt="Gemini API"/> |
 
 <br/>
-
-## Featured Projects
-
-### RNT College ERP System
-
-A Django-based ERP system built for college administration.
-
-| Layer | Technology |
-|:------|:-----------|
-| Backend | Python, Django |
-| Frontend | HTML, CSS, JavaScript |
-| Database | SQL |
-
-[![Code](https://img.shields.io/badge/View%20Code-GitHub-0b1220?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=0b1220&color=7dd3fc)](https://github.com/ayanshorger/RNT-College-ERP)
-
-### CanFighter
-
-An AI-integrated healthcare platform built at Google Lakhcity Hackathon 2026 using the Gemini API.
-
-
-| Layer | Technology |
-|:------|:-----------|
-| Backend | Python, Django |
-| AI | Gemini API |
-| Frontend | HTML, CSS, JavaScript |
-
-[![Code](https://img.shields.io/badge/View%20Code-GitHub-0b1220?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=0b1220&color=7dd3fc)](https://github.com/ayanshorger/CanFighter)
-
-<br/>
-
-
-
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayanshorger&show_icons=true&theme=nord&bg_color=0b1220&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanshorger&layout=compact&theme=nord&bg_color=0b1220&border_color=7dd3fc&title_color=7dd3fc&text_color=e2e8f0" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=ayanshorger&theme=nord&background=0b1220&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=94a3b8" alt="GitHub streak"/>
-
-<br/><br/>
-
-
-
-</div>
-
-<br/>
-
-
 
 ## Connect With Me
 
