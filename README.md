@@ -19,22 +19,6 @@
 
 I am a Python Full Stack Developer from Kapasan, Chittorgarh, currently pursuing my **Master of Computer Applications** at Rajasthan Institute of Engineering and Technology, Jaipur. I completed my BCA from RNT PG College (MLSU) with a **CGPA of 8.67** and the **College Topper medal**. I build Django-based web applications and am now expanding into data analytics with Python, Excel, Power BI and SQL.
 
-```typescript
-const ayanShorger = {
-  title: "Python Full Stack Developer | Web Developer | MCA Student",
-  location: "Kapasan, Chittorgarh, Rajasthan, India",
-  stack: ["Python", "Django", "HTML", "CSS", "JavaScript", "SQL", "Excel", "Power BI"],
-  launchedProjects: ["RNT College ERP System", "CanFighter"],
-  education: [
-    "MCA @ RIET Jaipur (2026 - 2028)",
-    "BCA @ RNT PG College, MLSU (CGPA 8.67, College Topper)"
-  ],
-  experience: "Technical Assistant @ Deeksha International School (Dec 2024 - Aug 2025)",
-  status: "Pursuing MCA and learning Python libraries for data analytics",
-  openTo: ["Django web development", "Data analytics", "Hackathons and collaborations"]
-};
-```
-
 <br/>
 
 ## Tech Stack
