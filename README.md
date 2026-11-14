@@ -27,7 +27,7 @@ I am a Python Full Stack Developer from Kapasan, Chittorgarh, currently pursuing
 |:---------|:-------------|
 | Languages | <img src="https://skillicons.dev/icons?i=py,js,html,css" alt="languages"/> |
 | Backend | <img src="https://skillicons.dev/icons?i=django" alt="backend"/> |
-| Data and Analytics | <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI"/> <img src="https://img.shields.io/badge/Excel-0b1220?style=for-the-badge&logo=microsoftexcel&logoColor=7dd3fc" alt="Excel"/> <img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=databricks&logoColor=7dd3fc" alt="SQL"/> |
+| Database | <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI"/> <img src="https://img.shields.io/badge/Excel-0b1220?style=for-the-badge&logo=microsoftexcel&logoColor=7dd3fc" alt="Excel"/> <img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=databricks&logoColor=7dd3fc" alt="SQL"/> |
 | AI | <img src="https://img.shields.io/badge/Gemini%20API-0b1220?style=for-the-badge&logo=googlegemini&logoColor=7dd3fc" alt="Gemini API"/> |
 
 <br/>
