@@ -27,34 +27,7 @@ I am currently pursuing my **MCA at RIET, Jaipur**, and I use my time to ship pr
 - 📚 Currently learning **Python libraries** and **Data Analytics**
 - 🎓 BCA **College Topper** (CGPA 8.67) with a Merit Medal from MLSU
 
-<br/>
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=7dd3fc)
-![Java](https://img.shields.io/badge/Java-0b1220?style=for-the-badge&logo=openjdk&logoColor=7dd3fc)
-![C++](https://img.shields.io/badge/C++-0b1220?style=for-the-badge&logo=cplusplus&logoColor=7dd3fc)
-![C](https://img.shields.io/badge/C-0b1220?style=for-the-badge&logo=c&logoColor=7dd3fc)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=7dd3fc)
-
-**Web and Frameworks**
-
-![Django](https://img.shields.io/badge/Django-0b1220?style=for-the-badge&logo=django&logoColor=7dd3fc)
-![HTML5](https://img.shields.io/badge/HTML5-0b1220?style=for-the-badge&logo=html5&logoColor=7dd3fc)
-![CSS3](https://img.shields.io/badge/CSS3-0b1220?style=for-the-badge&logo=css3&logoColor=7dd3fc)
-![Streamlit](https://img.shields.io/badge/Streamlit-0b1220?style=for-the-badge&logo=streamlit&logoColor=7dd3fc)
-
-**Mobile, AI and ML**
-
-![Android Studio](https://img.shields.io/badge/Android_Studio-0b1220?style=for-the-badge&logo=androidstudio&logoColor=7dd3fc)
-![Flutter](https://img.shields.io/badge/Flutter_(Basics)-0b1220?style=for-the-badge&logo=flutter&logoColor=7dd3fc)
-![Gemini](https://img.shields.io/badge/Gemini_API-0b1220?style=for-the-badge&logo=googlegemini&logoColor=7dd3fc)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0b1220?style=for-the-badge&logo=scikitlearn&logoColor=7dd3fc)
-
-
-<br/>
 
 
 <br/>
@@ -68,14 +41,7 @@ I am currently pursuing my **MCA at RIET, Jaipur**, and I use my time to ship pr
 
 <br/>
 
-## 📜 Certifications and Achievements
 
-- 🏅 **Merit Medal** for 8.67 CGPA, RNT PG College, Kapasan (MLSU)
-- 🐍 **Python Programming**, UniAthena in partnership with Cambridge International Qualifications (CIQ), UK
-- 💻 **RS-CIT**, Rajasthan State Certificate in Information Technology (VMOU)
-- 🏛️ **E-Mitra Operations Training**, digital government services (G2C/B2C) and utility payments
-
-<br/>
 
 ## 🤝 Let's Connect
 
