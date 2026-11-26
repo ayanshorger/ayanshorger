@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:1e3a5f&height=240&section=header&text=Ayan%20Shorger&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20MCA%20Student&descSize=20&descAlignY=60&descColor=e2e8f0" width="100%" alt="Ayan Shorger header"/>
 
 <a href="https://github.com/ayanshorger">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=760&lines=Python+Full+Stack+Developer;Building+scalable+Django+web+applications;Creator+of+RNT+College+ERP+System;CanFighter+%E2%80%94+AI+healthcare+platform+with+Gemini+API;Learning+Python+Machine+learning +and+AI+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=760&lines=Python+Full+Stack+Developer;Building+scalable+Django+web+applications;Creator+of+RNT+College+ERP+System;CanFighter+%E2%80%94+AI+healthcare+platform+with+Gemini+API;Learning+Python+Machine+learning+and+AI+Automation" alt="Typing SVG" />
 </a>
 
 <br/><br/>
